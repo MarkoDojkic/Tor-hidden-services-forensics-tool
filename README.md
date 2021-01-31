@@ -14,4 +14,4 @@ Program works as follows:
   - Lastly tool starts checking for databases (only MySQL and PostgreSQL are supported). If it finds any, option to copy its files is prompt to user.
   - At the end tool removes index.html form current directory and goodbye message is shown.
 
-This tool works on limited number of scenarios (only websites complete stored in directory written in "torrc" file, or in parent directory of "public" folder) and it has executable for macOS and Linux (compiled with g++ compiler using c++2a).
+This tool works on limited number of scenarios (only websites completely stored in directory written in "torrc" file, or in parent directory of "public" folder) and it has executable for macOS and Linux (compiled with g++ compiler using c++2a).
